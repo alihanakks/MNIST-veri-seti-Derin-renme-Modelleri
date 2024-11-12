@@ -34,3 +34,7 @@ Modellerin açıklamaları burada yer alır.
 
 ## Eğitim ve Değerlendirme  
 Eğitim süreci ve değerlendirme sonuçları hakkında bilgi verilir.
+
+## Model Performansları
+asdasd
+## Kurulum ve Çalıştırma
