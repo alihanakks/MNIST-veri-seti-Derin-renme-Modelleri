@@ -53,7 +53,7 @@ Eğitim sürecindeki adımlar:
 ### Performans Metrikleri
  Her iki modelin performansı doğruluk (accuracy) ve kayıp (loss) değerleri ile değerlendirilir. En iyi epoch değerleri get_best_epoch_details fonksiyonu ile elde edilmiştir. plot_training_history fonksiyonu, eğitim sürecinde model performansını görselleştirir.
  
-## Modellerin Performansları
+## Model Performansları
 Bu bölümde, her bir modelin doğruluk, eğitim süresi ve diğer metrikleri hakkında kısa notlar bırakabilirsiniz. Aşağıdaki tabloyu, kendi sonuçlarınıza göre doldurabilirsiniz:
 
 | Model Adı              | Doğruluk (%) | Kayıp (Loss) | Eğitim Süresi | Notlar                         |
