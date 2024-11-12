@@ -19,4 +19,8 @@ Bu proje, MNIST veri seti ile iki farklı derin öğrenme modelinin eğitimini v
 
 Gerekli kütüphaneleri aşağıdaki komutla kurabilirsiniz:
 ```bash
-pip install tensorflow keras-tuner scikit-learn pandas matplotlib seaborn opencv-python tqdm
+
+### Proje Yapısı
+Veri Hazırlama: prepare_data fonksiyonu, eğitim ve test veri kümelerini oluşturur.
+Model Eğitimi ve Değerlendirme: Model eğitimi sırasında plot_training_history ve get_best_epoch_details fonksiyonları ile eğitim ve doğrulama performansı izlenir.
+Model Kaydetme ve Yükleme: Eğitim sonrası en iyi modeli kaydedip tekrar yükleyebilirsiniz.
